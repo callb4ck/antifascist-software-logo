@@ -16,3 +16,6 @@ Files with the `.svg` extension are plain svg (not 1.1 compatible).
 ## Export
 
 Files `red-brackets.svg` and `black-brackets.svg` are exported from the `no-fonts.i.svg` file.
+
+![Red Brackets Logo](./red-brackets.svg)
+![Red Brackets Logo](./black-brackets.svg)
