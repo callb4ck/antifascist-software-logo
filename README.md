@@ -4,6 +4,13 @@ It shouldn't be this way, but it appears as if some projects are happy to show t
 
 This isn't really ideal now, is it?
 
+# Download
+
+You can download `2500x2500` png exports of the two logos here:
+
+- [Red brackets version](https://github.com/callb4ck/antifascist-software-logo/releases/download/red-black-eng-2500x2500/red-brackets.png)
+- [Black brackets version](https://github.com/callb4ck/antifascist-software-logo/releases/download/red-black-eng-2500x2500/black-brackets.png)
+
 # Files
 
 Files with the `.i.svg` extension are in the inkscape svg format.
